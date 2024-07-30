@@ -19,5 +19,6 @@
         400,
         1000
     ],
-    "spinTime":3
+    "spinTime":3,
+    "prizeValue":300
 }
